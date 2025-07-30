@@ -1,3 +1,0 @@
-#!/home/fria/projects/rxi/fe/fe
-(print "content-type: text/gemini\n\n")
-(print "# Hello World from fe")
